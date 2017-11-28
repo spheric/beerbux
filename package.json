@@ -1,0 +1,19 @@
+{
+  "name": "beercoin",
+  "version": "1.0.0",
+  "description": "beercoin!",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^4.0.1",
+    "truffle-hdwallet-provider": "0.0.3",
+    "zeppelin-solidity": "^1.4.0"
+  }
+}
